@@ -5,7 +5,7 @@ Examples
 --------
 ![example 1](examples/example1.PNG)   
 ![example 2](examples/example2.PNG)   
-![example 3](example/example3.PNG)   
+![example 3](examples/example3.PNG)   
 
 Rules of the Game    
 -----
