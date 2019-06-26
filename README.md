@@ -16,5 +16,5 @@ In each step of the game:
 * Any dead cell with exactly 3 neighbors becomes live   
 
 Read more:   
-https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life    
 https://bitstorm.org/gameoflife/
